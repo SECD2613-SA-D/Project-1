@@ -176,6 +176,30 @@
 
     10.1 Human Resource
 
+         1. Roles and Responsibilities:
+            • Project Manager: Oversees the project, coordinates between teams, and ensures timelines are met.
+            • Software Developers: Responsible for coding and developing the system. Each developer may focus on specific parts,
+              such as front-end or back-end.
+            • Graphic Designer: Creates the user interface design and ensures it is visually appealing and user-friendly.
+            • Technical Assistance Personnel: Provides support for any technical issues during development and deployment.
+            • Restaurant Manager: Oversees staff training on the new system and integrates it into daily operations.
+            • Front-of-House Staff: Uses the system to manage reservations and assist customers with inquiries.
+            
+         2. Allocation of Resources:
+            Assign tasks to each role.
+            For example, the project manager handles scheduling, while developers focus on specific modules.
+        
+         3. Estimating Manpower:        
+            Determine how many people are needed for each role and how long they will be involved in the project.
+            This can be reflected in the project timeline.
+            
+         4. Skill Requirements:
+            Specify the skills necessary for each role, such as programming languages for developers or design tools for the graphic designer.
+        
+         5. Human Resource Schedule:
+            Plan when each team member will be needed and for how long, ensuring that all roles are covered throughout the project phases.
+            This section ensures you have the right people in place to complete each task, contributing to the overall success of the project.
+
     10.2 Work Breakdown Structure (WBS)
 
         *CONSTRUCTED DIAGRAMS IN "Work Breakdown Structure (WBS).pdf" FILE*
