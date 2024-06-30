@@ -1,0 +1,107 @@
+# SUBMITTION OF GROUP PROJECT 1
+
+# Course Title: SECD2613 - System Analysis & Design
+# Date: 24/04/2024
+
+#        STUDENTS NAME             |     STUDENTS ID
+#      ARIA FARDHIN NIDHI          |      A23MJ3004
+# AMIR HAMZAH BIN ABDUL HALIM      |      A23MJ8042
+#      MALIKA KASMALIEVA           |      A23MJ3016
+
+
+# Table Of Contents
+
+1.0 Introduction
+2.0 Background Study
+3.0 Problem Statement
+4.0 Proposed Solutions (include feasibility study - technical, operational, economical-CBA)
+5.0 Objectives
+6.0 Scope of the Project
+7.0 Project Planning
+    7.1 Human Resource
+    7.2 Work Breakdown Structure (WBS)
+    7.3 PERT Chart (based on WBS)
+    7.4 Gantt Chart
+8.0 Benefit and Overall Summary of Proposed System
+
+
+# Topic: Online Restaurant Reservation System
+
+
+1.0 Introduction
+
+
+2.0 Background Study
+
+
+3.0 Problem Statement
+
+
+4.0 Proposed Solutions (include feasibility study - technical, operational, economical-CBA)
+
+    Our objective is to optimize table management while also boosting the eating experience for both customers and restaurant employees.
+    We will do this by implementing a sophisticated system with an easy-to-use user interface.
+    The system will offer a full database of food outlets, including their location, contact information, and working hours.
+    It will also have a user-friendly reservation form that focuses on the date, time, and other booking details.
+    Customers may establish accounts, amend bookings, and access extra features thanks to robust user account management.
+    Convenient cancellation options will be offered beside each reservation. 
+    
+    A dynamic database will be used to safely store all information, including reservations.
+    A reservation that is cancelled will have its status in the database changed to "Cancelled," clearing up the time slot.
+    We shall use encryption and respect privacy regulations to provide strong authentication and data security.
+    SMS reminders will be issued, and as soon as a reservation is made, an automated email confirmation will be delivered.
+    Users will also receive email and SMS reminders when their cancellations are successful.
+    Furthermore, reservation management systems will allow staff members to track future appointments and contact clients as required.
+
+
+5.0 Objectives
+
+    1. Design and implement a website featuring a restaurant reservation system that provides patrons with convenient access to advance table reservations. 
+    2. Develop a streamlined display of available tables within the restaurant for the selected time slots.
+    3. Automate the sending of email notifications to clients with reservation confirmations, utilizing the user information filled out on the website. 
+    4. Enhance the restaurant's overall image, customer satisfaction, and operational efficiency through the implementation of this managed platform.
+
+
+6.0 Scope of the Project
+
+
+7.0 Project Planning
+
+    7.1 Human Resource
+
+    7.2 Work Breakdown Structure (WBS)
+
+        *CONSTRUCTED DIAGRAMS IN "Work Breakdown Structure (WBS).pdf" FILE*
+
+    7.3 PERT Chart (based on WBS)
+
+        *CONSTRUCTED DIAGRAMS IN "PERT Chart.pdf" FILE*
+
+    7.4 Gantt Chart
+
+        *CONSTRUCTED DIAGRAMS IN "PERT Chart.pdf" FILE*
+
+
+8.0 Benefit and Overall Summary of Proposed System
+
+    The suggested online restaurant reservation system offers a thorough, user-friendly,
+    and effective remedy to the shortcomings of conventional reservation techniques.
+    In the end, this all-inclusive digital platform seeks to satisfy the demands of clients and restaurant operators,
+    resulting in increased contentment, prompt procedures, and enhanced resource administration.
+    The benefits are as follows:
+
+    •	Comfort for clients
+      Users can make reservations according to their convenience without having to call beforehand.
+    
+    •	Elevated Customer Experience
+      It provides guests the opportunity to make reservations with certain preferences.
+      In addition to that it sends swift emails to consumers serving as reminders and confirmations.
+    
+    •	Performance of Restaurants
+      The automatic reservation process decreases the burden on restaurant staff. It also reduces overbooking and insufficient usage.
+    
+    •	Data observations
+      Restaurants can learn about consumer preferences and busy phases by analyzing reservation data.
+    
+    •	Versatility
+      As the business expands, the system can be expanded to support additional restaurants, new features, and more users.
