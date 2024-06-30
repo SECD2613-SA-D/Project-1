@@ -17,12 +17,16 @@
 4.0 Proposed Solutions (include feasibility study - technical, operational, economical-CBA)
 5.0 Objectives
 6.0 Scope of the Project
-7.0 Project Planning
-    7.1 Human Resource
-    7.2 Work Breakdown Structure (WBS)
-    7.3 PERT Chart (based on WBS)
-    7.4 Gantt Chart
-8.0 Benefit and Overall Summary of Proposed System
+7.0 Methodology
+8.0 Resource
+9.0 Budget
+10.0 Project Planning
+    10.1 Human Resource
+    10.2 Work Breakdown Structure (WBS)
+    10.3 PERT Chart (based on WBS)
+    10.4 Gantt Chart
+11.0 Risks
+12.0 Benefit and Overall Summary of Proposed System
 
 
 # Topic: Online Restaurant Reservation System
@@ -30,11 +34,34 @@
 
 1.0 Introduction
 
+    In today's fast-paced world, the dining experience is increasingly shaped by technology.
+    The Online Restaurant Reservation System seeks to develop an innovative web-based program that
+    enriches the dining experience for both customers and restaurant staff.
+    Through a user-friendly interface, visitors will have the ability to effortlessly
+    make online reservations and view real-time table availability.
+    Following this, customers will promptly receive reservation confirmation emails.
+    This system aims to not only streamline the reservation process, thus facilitating staff operations
+    but also enhance the restaurant's general overview and customer satisfaction.
+
 
 2.0 Background Study
 
+    Our restaurant started as a small family venture and has become a popular dining destination,
+    particularly for those seeking a relaxing meal after a hectic day.
+    However, this popularity has led to challenges such as long wait times and crowded queues.
+    To address these issues, we developed an online platform that enables customers to reserve tables at their convenience, from any location.
+    This initiative not only improves customer service but also enhances our restaurant's efficiency and reputation.
+
 
 3.0 Problem Statement
+
+    As our restaurant's popularity grew, the manual reservation process became increasingly problematic.
+    Long queues and miscommunications about table availability negatively impacted customer satisfaction and staff productivity.
+    The risk of double bookings and errors was high, leading to frustration for both customers and employees.
+    Recognizing these challenges, we saw the need for an automated system that could handle reservations,
+    provide real-time updates, and facilitate better communication.
+    The Online Restaurant Reservation System was developed to address these issues, ensuring a smoother
+    and a more efficient reservation process that benefits everyone involved.
 
 
 4.0 Proposed Solutions (include feasibility study - technical, operational, economical-CBA)
@@ -64,44 +91,136 @@
 
 6.0 Scope of the Project
 
+    • Areas the System Will Cover:
 
-7.0 Project Planning
+        o Included:
+            1. Online Reservation Platform: Users can make table reservations through a user-friendly web interface.
+            2. Real-Time Table Availability: Customers can view current table availability before making a reservation.
+            3. Automated Confirmation Emails: Immediate email notifications to confirm reservations.
+            4. Secure Authentication: User data will be protected through secure login and authentication processes.
+            5. Notification Services: Customers receive reminders and updates about their reservations.
+        
+        o Not Included:
+            1. Payment Processing: The system will not handle any financial transactions or payments.
+            2. Onsite Table Management: The system will not manage physical table assignments or
+               customer seating arrangements in real-time within the restaurant.
+            3. Inventory and Menu Management: The system will not manage the restaurant's inventory or menu details.
+            4. Third-Party Integration: Integration with external systems or apps (e.g., social media or external booking platforms)
+               is not within the scope.
+    
+    • Benefits of the System
+            
+            1. Improved Customer Experience: Customers can conveniently book tables online, reducing wait times and enhancing satisfaction.
+            2. Operational Efficiency: Streamlines the reservation process, reducing manual work for staff and minimizing errors.
+            3. Enhanced Communication: Automated notifications and confirmations keep customers informed, reducing miscommunication.
+            4. Increased Customer Retention: By providing a modern and convenient reservation system, the restaurant can attract and retain more customers.
+            5. Data Insights: The system can provide insights into reservation trends and customer preferences, aiding in better decision-making.
 
-    7.1 Human Resource
 
-    7.2 Work Breakdown Structure (WBS)
+8.0 Resource
+
+    • Project Manager
+    • Software Developers
+    • Graphic Designer
+    • Technical Assistance Personnel
+    • Networking Tools and Servers
+    • Development tools and Programming Languages(CSS,HTML,etc)
+    • Project Management Software
+    • Documentation
+    • Dedicated Task Time
+        - Requirements Gathering and all planning: 2 weeks
+        - System Design: 3 weeks
+        - Development: About 12 weeks
+        - Testing and feedback: 4 weeks
+        - Deployment and Launch: 1-2 weeks
+        - Maintenance and Support: Always-on
+
+
+9.0 Budget
+
+    a) Personnel costs:
+        i.   Project Manager: RM5000 per month
+        ii.  Software Developer (2 developers): RM5000 per month per developer
+        iii. Graphic Designer: RM3000
+        iv.  Technical Assistance personnel: RM4000
+
+    b) Software and licenses:
+        i.   Development tools and programming languages (CSS, HTML, etc): RM3000
+        ii.  Project Management Software: RM300 per year
+    
+    c) Infrastructure and hosting:
+        i.   Server hosting: RM600 per year
+        ii.  Domain registration: RM100 per year
+        iii. SSL certificate: RM 600 per year
+
+    d) Miscellaneous expenses:
+        i.   Documentation: RM500
+        ii.  Consultations: RM1000
+
+    Total budget: 
+    
+    The sum of all the above costs:
+    Total budget = Personnel costs + Software and licenses + Infrastructure and hosting + Miscellaneous 
+    expenses
+    
+    Total budget = 
+    Personnel costs: (RM5000 + RM5000 + RM5000 + RM3000 + RM4000) *12 months 
+    Software and licenses: RM3000 + (RM300*12) 
+    Infrastructure and hosting: RM600 + RM100 + RM600
+    Miscellaneous expenses: RM500 + RM1000
+    
+    Total budget = RM269800
+
+
+10.0 Project Planning
+
+    10.1 Human Resource
+
+    10.2 Work Breakdown Structure (WBS)
 
         *CONSTRUCTED DIAGRAMS IN "Work Breakdown Structure (WBS).pdf" FILE*
 
-    7.3 PERT Chart (based on WBS)
+    10.3 PERT Chart (based on WBS)
 
         *CONSTRUCTED DIAGRAMS IN "PERT Chart.pdf" FILE*
 
-    7.4 Gantt Chart
+    10.4 Gantt Chart
 
-        *CONSTRUCTED DIAGRAMS IN "PERT Chart.pdf" FILE*
+        *CONSTRUCTED DIAGRAMS IN "Gantt Chart.pdf" FILE*
 
 
-8.0 Benefit and Overall Summary of Proposed System
+11.0 Risks
 
-    The suggested online restaurant reservation system offers a thorough, user-friendly,
-    and effective remedy to the shortcomings of conventional reservation techniques.
-    In the end, this all-inclusive digital platform seeks to satisfy the demands of clients and restaurant operators,
-    resulting in increased contentment, prompt procedures, and enhanced resource administration.
-    The benefits are as follows:
+     • Employment of suitable personnel.
+     • Technical difficulties during development phases.
+     • Management of various collected data during the gathering phase.
+     • Data security.
+     • Competition from existing restaurant-based online reservation portals.
+     
+     Mitigation of risks is made via thorough inspection of personnel, clear communication within the 
+     team regarding project progress and careful handling of important data.
 
-    •	Comfort for clients
-      Users can make reservations according to their convenience without having to call beforehand.
+
+12.0 Benefit and Overall Summary of Proposed System
+
+     The suggested online restaurant reservation system offers a thorough, user-friendly,
+     and effective remedy to the shortcomings of conventional reservation techniques.
+     In the end, this all-inclusive digital platform seeks to satisfy the demands of clients and restaurant operators,
+     resulting in increased contentment, prompt procedures, and enhanced resource administration.
+     The benefits are as follows:
     
-    •	Elevated Customer Experience
-      It provides guests the opportunity to make reservations with certain preferences.
-      In addition to that it sends swift emails to consumers serving as reminders and confirmations.
-    
-    •	Performance of Restaurants
-      The automatic reservation process decreases the burden on restaurant staff. It also reduces overbooking and insufficient usage.
-    
-    •	Data observations
-      Restaurants can learn about consumer preferences and busy phases by analyzing reservation data.
-    
-    •	Versatility
-      As the business expands, the system can be expanded to support additional restaurants, new features, and more users.
+        •	Comfort for clients
+            Users can make reservations according to their convenience without having to call beforehand.
+        
+        •	Elevated Customer Experience
+            It provides guests the opportunity to make reservations with certain preferences.
+            In addition to that it sends swift emails to consumers serving as reminders and confirmations.
+        
+        •	Performance of Restaurants
+            The automatic reservation process decreases the burden on restaurant staff. It also reduces overbooking and insufficient usage.
+        
+        •	Data observations
+            Restaurants can learn about consumer preferences and busy phases by analyzing reservation data.
+        
+        •	Versatility
+            As the business expands, the system can be expanded to support additional restaurants, new features, and more users.
